@@ -1,0 +1,8 @@
+Include
+Data load.
+column value replace.
+Delete unnecessary column. 
+Converting object data type into numerical datatype using function. 
+separating number and categorical columns.
+Finding unique values using function. 
+ploting the data distribution in numberical category using function. 
